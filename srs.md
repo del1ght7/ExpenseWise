@@ -1,6 +1,6 @@
 # Требования к проекту
 ##Содержание
-1. [Введение](#https://github.com/del1ght7/ExpenseWise/blob/main/srs.md#1-%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)<br>  
+1. [Введение](https://github.com/del1ght7/ExpenseWise/blob/main/srs.md#1-%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)<br>  
 2. [Требования пользователя](#2)<br>
    2.1 [Программные интерфейсы](#2.1)<br>
    2.2 [Интерфейс пользователя](#2.2)<br>
