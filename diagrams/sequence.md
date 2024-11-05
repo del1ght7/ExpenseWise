@@ -11,7 +11,7 @@
 
 ### 2. Выбор уровня <a name="2"></a>
 
-![Профиль пользователя](images/sequence_level.jpg)
+![Профиль пользователя](images/sequence_expense.jpg)
 
 ### 3. Редактирование профиля пользователя<a name="3"></a>
 ![Диаграмма состояний](images/sequence_profile.jpg)
